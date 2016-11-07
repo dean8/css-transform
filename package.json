@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "Dean"
+  },
+  "bugs": {
+    "url": "https://github.com/dean8/css-transform/issues"
+  },
+  "homepage": "https://github.com/dean8/css-transform#readme",
+  "description": "make react component",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "react",
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "license": "ISC",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "name": "dean8",
+      "email": "826554003@qq.com"
+    }
+  ],
+  "name": "css-transform",
+  "optionalDependencies": {},
+  "preferGlobal": "true",
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
